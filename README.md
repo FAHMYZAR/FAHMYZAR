@@ -4,13 +4,11 @@
 
 ###### Welcome to my page! I'm Habibi, a Junior Web Developer from Indonesia, currently living in Yogyakarta City, Indonesia.
 
-<br clear="both">
 
 ## ⚙️ Things I Code With
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,figma,git,&)](https://skillicons.dev)
 
-<br clear="both">
 
 ## 🪢 Let's Connect and Collaborate
 
@@ -30,7 +28,7 @@
 
 ###
 
-<img align="right" height="299" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duY3V0bjFjZWUxaWhkZmRzbzZxdmJxYXc0cjRiZTRtMnNvYnc5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4drIzcE2mPWU/giphy.gif"  />
+<img align="right" height="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duY3V0bjFjZWUxaWhkZmRzbzZxdmJxYXc0cjRiZTRtMnNvYnc5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4drIzcE2mPWU/giphy.gif"  />
 
 ###
 
