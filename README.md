@@ -1,22 +1,21 @@
 ![Header](img/boy.png)
-## Hey there 👋 Nice to see you
-<hr>
-Welcome to my page! I'm Habibi, a Junior Web Developer from Indonesia, currently living in Yogyakarta City, Indonesia.
+
+# Hey there 👋 Nice to see you
+
+###### Welcome to my page! I'm Habibi, a Junior Web Developer from Indonesia, currently living in Yogyakarta City, Indonesia.
 
 <br clear="both">
 
-### ⚙️ Things I Code With
+## ⚙️ Things I Code With
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,figma,git,&)](https://skillicons.dev)
 
-###
-<hr>
+<br clear="both">
 
-### 🪢 Let's Connect and Collaborate 
-###
+## 🪢 Let's Connect and Collaborate
 
 <div align="left">
-  <a href="www.linkedin.com/in/muhammadkhoerulhabibi" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadkhoerulhabibi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mkhabibii_/" target="_blank">
@@ -27,17 +26,19 @@ Welcome to my page! I'm Habibi, a Junior Web Developer from Indonesia, currently
   </a>
 </div>
 
-###
+<hr>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31th7c5nx2tiujwo2ouubm5gabne">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+<div align="center">
+  <img height="299" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duY3V0bjFjZWUxaWhkZmRzbzZxdmJxYXc0cjRiZTRtMnNvYnc5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4drIzcE2mPWU/giphy.gif"  />
+</div>
 
-<br clear="both">
-
+<hr>
 <img src="https://raw.githubusercontent.com/habiboy7/habiboy7/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
