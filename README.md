@@ -28,17 +28,22 @@
 
 <hr>
 
-<div align="center">
+###
+
+<img align="right" height="299" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duY3V0bjFjZWUxaWhkZmRzbzZxdmJxYXc0cjRiZTRtMnNvYnc5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4drIzcE2mPWU/giphy.gif"  />
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/31th7c5nx2tiujwo2ouubm5gabne">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-<div align="center">
-  <img height="299" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duY3V0bjFjZWUxaWhkZmRzbzZxdmJxYXc0cjRiZTRtMnNvYnc5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4drIzcE2mPWU/giphy.gif"  />
-</div>
+###
 
-<hr>
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/habiboy7/habiboy7/output/snake.svg" alt="Snake animation" />
 
 ###
