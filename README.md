@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="img/boy.png" alt="Header" style="border-radius: 20px; max-width: 100%;" />
-</div>
+![Header](img/boy.png)
 
 # Hey there 👋 Nice to see you
 
