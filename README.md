@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="http://fahmyzzx.my.id/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/domain.png" width="52" height="52" alt="website logo" />
+    <img src="https://img.icons8.com/3d-fluency/94/domain.png" width="52" height="52" alt="website logo" style="vertical-align: bottom;" />
   </a>
 </div>
 
