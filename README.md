@@ -28,13 +28,13 @@
 
 ###
 
-<img align="right" height="330" width="330" src="https://i.giphy.com/JPUnIuZ6bUaW7C39Ro.webp"  />
+<img align="right" height="380" width="380" src="https://i.giphy.com/JPUnIuZ6bUaW7C39Ro.webp"  />
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/314de4hz7tf27ngw2ajznmramctq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
