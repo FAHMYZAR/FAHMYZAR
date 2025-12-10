@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,cmake,java,gradle,htmx,kotlin,laravel,tailwind,linux,figma,git,postman,&)](https://skillicons.dev)
 
 ## Website Portofolio
-www.fahmyzzx.my.id
+www.fahmyzzx.my.id 👾
 <hr>
 
 ###
