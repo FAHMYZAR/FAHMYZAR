@@ -9,22 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,cmake,java,gradle,htmx,kotlin,laravel,tailwind,linux,figma,git,postman,&)](https://skillicons.dev)
 
-
-## 🪢 Let's Connect and Collaborate
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/n-a-fahmi-728334315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/n.a.fahmi" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48" alt="instagram logo" />
-  </a>
-  <a href="http://fahmyzzx.my.id/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/domain.png" width="48" height="48" alt="website logo" style="vertical-align: bottom;" />
-  </a>
-</div>
-
-###
 <hr>
 
 ###
