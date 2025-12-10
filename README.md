@@ -1,4 +1,4 @@
-![Header](img/boy.png)
+![Header](img/aku.png)
 
 # Hey there 👋 Nice to see you
 
