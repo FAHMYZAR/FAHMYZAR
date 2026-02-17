@@ -28,6 +28,6 @@ www.fahmyzzx.my.id
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/habiboy7/habiboy7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FAHMYZAR/FAHMYZAR/output/snake.svg" alt="Snake animation" />
 
 ###
