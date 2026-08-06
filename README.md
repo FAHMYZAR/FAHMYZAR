@@ -14,9 +14,6 @@ www.fahmyzzx.my.id
 <hr>
 
 ###
-<img align="right" height="380" width="380" src="https://i.giphy.com/JPUnIuZ6bUaW7C39Ro.webp"  />
-
-###
 
 <br clear="both">
 
