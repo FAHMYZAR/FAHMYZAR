@@ -18,14 +18,6 @@ www.fahmyzzx.my.id
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/314de4hz7tf27ngw2ajznmramctq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/FAHMYZAR/FAHMYZAR/output/snake.svg" alt="Snake animation" />
